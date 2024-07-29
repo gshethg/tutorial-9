@@ -1,0 +1,16 @@
+---
+title: "Five Parameters"
+author: "Gitanjali Sheth"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+library(primer.data)
+```
+
